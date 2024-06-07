@@ -1,0 +1,16 @@
+50.7.87.83 metrics.fivem.net
+78.157.42.100 registry-internal.fivem.net
+78.157.42.100 status.fivem.net
+78.157.42.100 synapse.fivem.net
+50.7.87.83 status.cfx.re
+5.42.217.224 users.cfx.re
+5.42.217.224 content.cfx.re
+50.7.87.83 sentry.fivem.net
+50.7.87.83 runtime.fivem.net
+50.7.87.83 lambda.fivem.net
+5.42.217.224 changelogs-live.fivem.net
+5.42.217.224 servers-frontend.fivem.net
+50.7.87.83 cnl-hb-live.fivem.net
+50.7.87.83 policy-live.fivem.net
+5.42.217.224 keymaster.fivem.net
+5.42.217.224 fivem.net
