@@ -1,39 +1,21 @@
 {
     "version": "1.0.0",
-    "hosts": [
-        "50.7.87.83 metrics.fivem.net",
-        "78.157.42.100 registry-internal.fivem.net",
-        "78.157.42.100 status.fivem.net",
-        "78.157.42.100 synapse.fivem.net",
-        "50.7.87.83 status.cfx.re",
-        "5.42.217.224 users.cfx.re",
-        "5.42.217.224 content.cfx.re",
-        "50.7.87.83 sentry.fivem.net",
-        "50.7.87.83 runtime.fivem.net",
-        "50.7.87.83 lambda.fivem.net",
-        "5.42.217.224 changelogs-live.fivem.net",
-        "5.42.217.224 servers-frontend.fivem.net",
-        "50.7.87.83 cnl-hb-live.fivem.net",
-        "50.7.87.83 policy-live.fivem.net",
-        "5.42.217.224 keymaster.fivem.net",
-        "5.42.217.224 fivem.net"
-    ],
-    "domains": [
-        "metrics.fivem.net",
-        "registry-internal.fivem.net",
-        "status.fivem.net",
-        "synapse.fivem.net",
-        "status.cfx.re",
-        "users.cfx.re",
-        "content.cfx.re",
-        "sentry.fivem.net",
-        "runtime.fivem.net",
-        "lambda.fivem.net",
-        "changelogs-live.fivem.net",
-        "servers-frontend.fivem.net",
-        "cnl-hb-live.fivem.net",
-        "policy-live.fivem.net",
-        "keymaster.fivem.net",
-        "fivem.net"
-    ]
+    "hosts": {
+        "metrics.fivem.net": "50.7.87.82",
+        "registry-internal.fivem.net": "78.157.42.100",
+        "status.fivem.net": "78.157.42.100",
+        "synapse.fivem.net": "78.157.42.100",
+        "status.cfx.re": "50.7.87.82",
+        "users.cfx.re": "50.7.87.82",
+        "content.cfx.re": "5.42.217.224",
+        "sentry.fivem.net": "50.7.87.82",
+        "runtime.fivem.net": "50.7.87.82",
+        "lambda.fivem.net": "50.7.87.82",
+        "changelogs-live.fivem.net": "50.7.87.82",
+        "servers-frontend.fivem.net": "5.42.217.224",
+        "cnl-hb-live.fivem.net": "50.7.87.82",
+        "policy-live.fivem.net": "50.7.87.82",
+        "keymaster.fivem.net": "50.7.87.82",
+        "fivem.net": "50.7.87.82"
+    }
 }
